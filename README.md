@@ -1,4 +1,4 @@
-# ProgramacionOrientadaAObjetos
+# Programacion Orientada A Objetos
 Actividades de la materio POO Universidad nacional de Colombia.
 
 # Actividad 3
