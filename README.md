@@ -6,6 +6,7 @@ esta activadad consta de 2 partes.
 
 La parte 1 tiene 8 ejercicios del libro "**Logica de Programacion Efrain Oviedo"** la parte 2 salio del libro **"Ejercicios de programación orientada a objetos con Java y uml"** que a su vez se realizaron con interfaz grafica. las 2 partes estan conectadas por un login principal para mejor movilidad.
 el programa es iniciado con [Clase_principal](http://https://github.com/Cristian-MarinUn/ProgramacionOrientadaAObjetos/blob/main/src/login/loginClass.java "Clase_principal") y se ejecuta el  [UI_login](http://https://github.com/Cristian-MarinUn/ProgramacionOrientadaAObjetos/blob/main/src/login/UI_login.java "UI_login") que el contiene dos clases que son la de la parte 1 y parte 2.<br>
+## Login
 ![UI_login1](https://github.com/Cristian-MarinUn/ProgramacionOrientadaAObjetos/blob/main/img_interfaz/UI_login.png "UI_login1")
 
 ## Parte 1
